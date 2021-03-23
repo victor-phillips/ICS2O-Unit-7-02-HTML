@@ -2,7 +2,7 @@
 let uval = 0
 // event listener
 document.getElementById('button').addEventListener('click', func1)
-//detector
+// detector
 function func1 () {
   uval = document.getElementById('input').value
   uval = parseInt(uval)
